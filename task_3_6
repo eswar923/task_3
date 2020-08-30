@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <style>
+p.a {
+  font-family: "a", Times, red serif
+  }
+  p.a{
+  font-style: italic;
+}
+     </style>
+   </head>
+  <body>
+<p class="a"><strong>This is a paragraph, shown in the Times New Roman FONT.</strong></p>
+  </body>
+</html>
